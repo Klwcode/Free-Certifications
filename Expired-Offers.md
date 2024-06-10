@@ -1,6 +1,6 @@
 # Expired Offers
 
-The recently expired offers are to be added on top of the table.
+The recently expired offers are to be added on top of the table. Of course
 
 
 | Technology | Provider | Description | Link | Expiration |
